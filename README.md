@@ -19,11 +19,11 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: Session Hijacking
 
-<img src='https://imgur.com/NO1aMt7' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
+<img src='https://imgur.com/NO1aMt7.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 Vulnerability #2: SQL Injection
 
-<img src='https://imgur.com/a/vVD1U' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
+<img src='https://imgur.com/a/vVD1U.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 ## Green
 
