@@ -19,7 +19,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: Session Hijacking
 
-<img src='https://imgur.com/a/CPQBf' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
+<img src='https://imgur.com/CPQBf' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 Vulnerability #2: SQL Injection
 
