@@ -23,27 +23,27 @@ Vulnerability #1: Session Hijacking
 
 Vulnerability #2: SQL Injection
 
-<img src='https://imgur.com/a/vVD1U.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
+<img src='https://imgur.com/puszCm7.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 ## Green
 
 Vulnerability #1: Cross Site Scripting
 
-<img src='https://imgur.com/a/DwpqP title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
+<img src='https://imgur.com/GvLiDSy.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 Vulnerability #2: User Enumeration
 
-<img src='https://imgur.com/a/uTOpi' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
+<img src='https://imgur.com/u051OV5.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
 
-<img src='https://imgur.com/a/QEITB' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
+<img src='https://imgur.com/xgkdkJb.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 Vulnerability #2: Cross Site Request Forgery
 
-<img src='https://imgur.com/a/kuQrP' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
+<img src='https://imgur.com/tqIuR8A.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 
 ## Notes
