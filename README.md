@@ -1,7 +1,7 @@
 # Project 8 - Pentesting Live Targets
 Kevin Avalo
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
